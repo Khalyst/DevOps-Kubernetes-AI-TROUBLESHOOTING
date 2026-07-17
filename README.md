@@ -15,16 +15,9 @@ Be deployed publicly as a real application
 
 High Level Architecture
 
-┌────────────────────────────────────────────────────────────┐
-│                    Kubernetes Cluster                     │
-│                                                            │
-│  Pods | Deployments | Services | Events | Logs            │
-│                                                            │
-│  This is where failures happen and evidence exists         │
-└────────────────────────────────────────────────────────────┘
-                              │
-                              │ kubectl / Kubernetes API
-                              ▼
+
+<img width="253" height="404" alt="image" src="https://github.com/user-attachments/assets/92865b59-45c3-4e8b-b8d8-b51ba7d25310" />
+
  
 
 
