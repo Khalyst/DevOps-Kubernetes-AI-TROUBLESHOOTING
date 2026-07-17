@@ -116,3 +116,22 @@ Response:
   "service": "ai-kubernetes-agent"
 }
 
+Enable:
+
+CORS
+logging
+env loading
+Keep code simple and modular.
+
+Frontend Requirements
+Create a minimal homepage.
+
+UI:
+
+AI Kubernetes Agent
+
+Troubleshoot Kubernetes with AI
+
+[ Investigate Cluster ]
+
+System Status: Ready
