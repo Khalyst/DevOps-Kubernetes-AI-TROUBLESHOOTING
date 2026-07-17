@@ -154,4 +154,22 @@ backend
 frontend
 Create docker-compose:
 
+backend → port 8000
+frontend → port 3000
+Constraints
+DO NOT implement:
+
+kubectl logic
+AI reasoning
+OpenRouter
+InsForge
+Authentication
+Realtime updates
+Only setup the foundation.
+
+DO NOT BREAK EXISTING CODE in future implementations.
+
+Keep everything beginner friendly and production-style.
+
+
 
