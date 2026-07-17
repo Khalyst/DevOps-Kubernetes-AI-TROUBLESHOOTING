@@ -135,3 +135,23 @@ Troubleshoot Kubernetes with AI
 [ Investigate Cluster ]
 
 System Status: Ready
+
+Simple professional styling only.
+
+Environment Variables
+Backend:
+
+OPENROUTER_API_KEY=
+OPENROUTER_MODEL=
+KUBECONFIG_PATH=
+Frontend:
+
+NEXT_PUBLIC_API_BASE_URL=http://localhost:8000
+Docker Requirements
+Create Dockerfiles for:
+
+backend
+frontend
+Create docker-compose:
+
+
