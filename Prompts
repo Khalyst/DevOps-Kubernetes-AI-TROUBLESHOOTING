@@ -1,0 +1,18 @@
+Context
+We are building an AI Kubernetes Troubleshooting Agent.
+
+Architecture:
+
+Frontend
+    ↓
+FastAPI Backend (Orchestrator)
+    ↓
+Kubernetes Investigation Layer
+    ↓
+AI Kubernetes Agent
+    ↓
+LLM Reasoning (OpenRouter via InsForge)
+    ↓
+Root Cause + Suggested Fix
+    ↓
+Frontend Diagnosis
