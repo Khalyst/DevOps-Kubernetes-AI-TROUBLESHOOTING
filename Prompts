@@ -98,4 +98,21 @@ hooks/
 types/
 Use placeholder implementations only.
 
+Example:
+
+def inspect_pods():
+    pass
+
+Backend Requirements
+Create FastAPI app.
+
+Add:
+
+GET /health
+Response:
+
+{
+  "status": "healthy",
+  "service": "ai-kubernetes-agent"
+}
 
