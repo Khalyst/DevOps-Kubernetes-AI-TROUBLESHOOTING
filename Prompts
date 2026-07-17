@@ -48,5 +48,27 @@ Basic folder structure
 Health endpoint
 Do NOT implement Kubernetes logic or AI yet.
 
+TECH STACK
+
+Backend:
+
+FastAPI
+Python 3.12+
+Uvicorn
+Pydantic
+Loguru
+HTTPX
+Frontend:
+
+Next.js
+TypeScript
+Tailwind CSS
+Axios
+React Query
+Infrastructure:
+
+Docker
+Docker Compose
+
 
 
