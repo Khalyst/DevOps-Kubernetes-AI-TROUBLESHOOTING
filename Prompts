@@ -82,5 +82,20 @@ ai-kubernetes-agent/
 └── README.md
 Docker Compose
 
+Backend should include placeholders for:
+
+api/
+core/
+kubernetes/
+ai/
+services/
+models/
+Frontend should include placeholders for:
+
+components/
+services/
+hooks/
+types/
+Use placeholder implementations only.
 
 
