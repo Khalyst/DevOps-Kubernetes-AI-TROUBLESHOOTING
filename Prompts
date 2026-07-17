@@ -171,5 +171,12 @@ DO NOT BREAK EXISTING CODE in future implementations.
 
 Keep everything beginner friendly and production-style.
 
+Expected Result
+I should be able to run:
 
+docker compose up --build
+Access:
+
+http://localhost:3000
+http://localhost:8000/health
 
