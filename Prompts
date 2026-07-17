@@ -16,3 +16,37 @@ LLM Reasoning (OpenRouter via InsForge)
 Root Cause + Suggested Fix
     ↓
 Frontend Diagnosis
+
+
+This is an on-demand troubleshooting system.
+
+Example flow:
+
+User clicks "Investigate Cluster"
+        ↓
+API call
+        ↓
+Kubernetes investigation
+        ↓
+AI reasoning
+        ↓
+Diagnosis shown to user
+
+We are NOT building a Kubernetes controller/operator.
+
+GOAL
+
+Set up the project foundation.
+
+Create:
+
+FastAPI backend
+Next.js frontend
+Docker setup
+Environment variables
+Basic folder structure
+Health endpoint
+Do NOT implement Kubernetes logic or AI yet.
+
+
+
