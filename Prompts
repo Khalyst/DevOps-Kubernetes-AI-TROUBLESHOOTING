@@ -68,6 +68,18 @@ React Query
 Infrastructure:
 
 Docker
+
+Project Structure
+
+Create a monorepo:
+ai-kubernetes-agent/
+
+├── backend/
+├── frontend/
+├── docs/
+├── prompts/
+├── docker-compose.yml
+└── README.md
 Docker Compose
 
 
